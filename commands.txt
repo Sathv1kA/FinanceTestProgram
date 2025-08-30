@@ -1,0 +1,5 @@
+regularMarketPrice
+fiftyTwoWeekRange
+postMarketChange
+debtToEquity
+revenuePerShare
